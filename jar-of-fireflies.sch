@@ -2281,10 +2281,10 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="150"/>
 <part name="R2" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="150"/>
 <part name="R3" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="150"/>
-<part name="R4" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
-<part name="R5" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1M"/>
+<part name="R4" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1M"/>
+<part name="R5" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
 <part name="S1" library="SparkFun-Electromechanical" deviceset="SWITCH-MOMENTARY-2" device="SMD-1101NE" value="SWITCH-MOMENTARY-2SMD-1101NE"/>
-<part name="R6" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1k"/>
+<part name="R6" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
 <part name="D1" library="SparkFun-LED" deviceset="LED" device="3MM"/>
 <part name="D2" library="SparkFun-LED" deviceset="LED" device="3MM"/>
 <part name="D5" library="SparkFun-LED" deviceset="LED" device="3MM"/>
