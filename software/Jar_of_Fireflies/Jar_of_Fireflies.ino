@@ -12,7 +12,8 @@ todos:
 --be more consistent with globals vs. passed values
 --clean up state change code
 --fix 1 vs 2 led option
-
+--switch power modes when in state 0 to prolong standby battery life https://learn.sparkfun.com/tutorials/h2ohno/low-power-attiny
+--turn off ADC to save power
 
 Jason Webb - zen.webb@gmail.com
 Project wiki: http://jason-webb.info/wiki/index.php?title=Jar_of_Fireflies
